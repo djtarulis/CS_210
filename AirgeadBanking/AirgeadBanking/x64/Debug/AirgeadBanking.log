@@ -1,0 +1,2 @@
+﻿  main.cpp
+C:\Users\DJ\Desktop\C++\AirgeadBanking\AirgeadBanking\main.cpp(5,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
